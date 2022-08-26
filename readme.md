@@ -18,3 +18,4 @@
 
 https://docs.microsoft.com/ko-kr/windows/wsl/tutorials/wsl-database
 https://nomadcoders.co/wetube/lectures/2671/comments/79870
+https://dangphongvanthanh.wordpress.com/2017/06/12/add-mongos-bin-folder-to-the-path-environment-variable/
