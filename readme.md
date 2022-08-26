@@ -15,3 +15,6 @@
 
 /videos/comments
 /videos/comments/delete
+
+https://docs.microsoft.com/ko-kr/windows/wsl/tutorials/wsl-database
+https://nomadcoders.co/wetube/lectures/2671/comments/79870
